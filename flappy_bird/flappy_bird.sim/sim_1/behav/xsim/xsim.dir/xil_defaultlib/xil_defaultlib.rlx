@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/MYCOUNTER_TB.v,1733566930,verilog,,,,MYCOUNTER_TB,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/imports/new/VGA_timings.v,1732633622,verilog,,,,VGA_timings,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/imports/new/counter.v,1730126131,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/imports/new/VGA_timings.v,,counter,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/new/MYCOUNTER.v,1733421370,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/MYCOUNTER_TB.v,,MYCOUNTER,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Sat Dec  7 11:16:29 2024
+# Process ID: 23232
+# Current directory: C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.sim/sim_1/behav/xsim/xsim.dir/MYCOUNTER_TB_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.sim/sim_1/behav/xsim/xsim.dir/MYCOUNTER_TB_behav/webtalk/xsim_webtalk.tcl -notrace
