@@ -1,0 +1,53 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.765007",
+   "Default View_TopLeft":"-123,-42",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:9.0 non-TLS-threadsafe
+#  -string -flagsOSRD
+preplace port iClk -pg 1 -lvl 0 -x 0 -y 320 -defaultsOSRD
+preplace port iRst -pg 1 -lvl 0 -x 0 -y 260 -defaultsOSRD
+preplace port oHS -pg 1 -lvl 5 -x 1120 -y 260 -defaultsOSRD
+preplace port oVS -pg 1 -lvl 5 -x 1120 -y 290 -defaultsOSRD
+preplace port iBtnUP -pg 1 -lvl 0 -x 0 -y 380 -defaultsOSRD
+preplace port iBtnDOWN -pg 1 -lvl 0 -x 0 -y 80 -defaultsOSRD
+preplace port iSwCollision -pg 1 -lvl 0 -x 0 -y 520 -defaultsOSRD
+preplace port iBtnENTER -pg 1 -lvl 0 -x 0 -y 200 -defaultsOSRD
+preplace portBus oGreen -pg 1 -lvl 5 -x 1120 -y 400 -defaultsOSRD
+preplace portBus oRed -pg 1 -lvl 5 -x 1120 -y 370 -defaultsOSRD
+preplace portBus oBlue -pg 1 -lvl 5 -x 1120 -y 430 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 1 -x 110 -y 320 -defaultsOSRD
+preplace inst VGA_timings_0 -pg 1 -lvl 3 -x 610 -y 350 -defaultsOSRD
+preplace inst Debounce_Switch_0 -pg 1 -lvl 2 -x 310 -y 370 -defaultsOSRD
+preplace inst Debounce_Switch_1 -pg 1 -lvl 2 -x 310 -y 70 -defaultsOSRD
+preplace inst Debounce_Switch_2 -pg 1 -lvl 2 -x 310 -y 510 -defaultsOSRD
+preplace inst VGA_pattern_0 -pg 1 -lvl 4 -x 950 -y 400 -defaultsOSRD
+preplace inst Debounce_Switch_3 -pg 1 -lvl 2 -x 310 -y 190 -defaultsOSRD
+preplace inst GAME_logic_0 -pg 1 -lvl 3 -x 610 -y 160 -defaultsOSRD
+preplace netloc clk_in1_0_1 1 0 1 NJ 320
+preplace netloc clk_wiz_0_clk_out1 1 1 2 200 270 440
+preplace netloc iRst_0_1 1 0 3 NJ 260 NJ 260 450
+preplace netloc VGA_timings_0_oActive 1 3 1 N 390
+preplace netloc VGA_timings_0_oCountV 1 3 1 N 370
+preplace netloc VGA_timings_0_oCountH 1 3 1 N 350
+preplace netloc VGA_timings_0_oHS 1 3 2 770J 260 NJ
+preplace netloc VGA_timings_0_oVS 1 3 2 790J 290 NJ
+preplace netloc VGA_pattern_0_oGreen 1 4 1 NJ 400
+preplace netloc VGA_pattern_0_oRed 1 4 1 1100J 370n
+preplace netloc VGA_pattern_0_oBlue 1 4 1 1100J 420n
+preplace netloc GAME_logic_0_oPipePos 1 3 1 800 140n
+preplace netloc GAME_logic_0_oBirdPos 1 3 1 760 180n
+preplace netloc GAME_logic_0_oWindowsPos 1 3 1 780 160n
+preplace netloc Debounce_Switch_0_o_Switch 1 2 1 420 150n
+preplace netloc Debounce_Switch_1_o_Switch 1 2 1 430 70n
+preplace netloc Debounce_Switch_2_o_Switch 1 2 1 460 210n
+preplace netloc i_Switch_0_1 1 0 2 NJ 380 NJ
+preplace netloc i_Switch_0_2 1 0 2 NJ 80 NJ
+preplace netloc i_Switch_0_3 1 0 2 NJ 520 NJ
+preplace netloc Debounce_Switch_3_o_Switch 1 2 1 N 190
+preplace netloc i_Switch_0_4 1 0 2 NJ 200 NJ
+levelinfo -pg 1 0 110 310 610 950 1120
+pagesize -pg 1 -db -bbox -sgen -130 0 1250 580
+"
+}
+0

@@ -1,0 +1,7 @@
+Running: xsim.dir/BIRD_state_TB_behav/xsimk.exe -simmode gui -wdb BIRD_state_TB_behav.wdb -simrunnum 0 -socket 60495
+Design successfully loaded
+Design Loading Memory Usage: 6604 KB (Peak: 6604 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 7212 KB (Peak: 7212 KB)
+Simulation CPU Usage: 15 ms

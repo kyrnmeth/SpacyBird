@@ -1,0 +1,22 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/BIRD_state_TB.v,1733628420,verilog,,,,BIRD_state_TB,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/GAME_state_TB.v,1733649841,verilog,,,,GAME_state_TB,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/MYCOUNTER_TB.v,1733566930,verilog,,,,MYCOUNTER_TB,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/PIPE_state_TB.v,1733627791,verilog,,,,PIPE_state_TB,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/POSEDGE_detection_TB.v,1733622746,verilog,,,,POSEDGE_detection_TB,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/RND_generator_TB.v,1733624758,verilog,,,,RND_generator_TB,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/VGA_timings_TB.v,1733625979,verilog,,,,VGA_timings_TB,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/WINDOW_regs_TB.v,1733648371,verilog,,,,WINDOW_regs_TB,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/imports/new/VGA_timings.v,1733436628,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/imports/new/counter.v,,VGA_timings,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/imports/new/counter.v,1730126131,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/VGA_timings_TB.v,,counter,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/new/BIRD_state.v,1733582136,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/BIRD_state_TB.v,,BIRD_state,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/new/GAME_state.v,1733606874,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/GAME_state_TB.v,,GAME_state,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/new/MYCOUNTER.v,1733421370,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/MYCOUNTER_TB.v,,MYCOUNTER,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/new/PIPE_state.v,1733608366,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/PIPE_state_TB.v,,PIPE_state,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/new/POSEDGE_detection.v,1733603999,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/POSEDGE_detection_TB.v,,POSEDGE_detection,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/new/RND_generator.v,1733435402,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/RND_generator_TB.v,,RND_generator,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
+C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sources_1/new/WINDOW_regs.v,1733434062,verilog,,C:/Users/staea/Documents/KUL/DDC/Project/flappy_bird/flappy_bird.srcs/sim_1/new/WINDOW_regs_TB.v,,WINDOW_regs,,,../../../../flappy_bird.srcs/sources_1/bd/design_1/ipshared/8b3d,,,,,
